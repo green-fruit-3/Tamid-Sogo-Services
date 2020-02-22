@@ -1,0 +1,10 @@
+table, th, td {
+  height: 20px;
+  padding: 10px;
+}
+
+th, td {
+  border-bottom: 2px solid black;
+}
+
+tr:hover {background-color: #ddf}
